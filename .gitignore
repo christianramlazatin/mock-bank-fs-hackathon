@@ -1,0 +1,7 @@
+mock_bank/
+__pycache__/
+.env
+*.pyc
+.DS_Store
+.vscode/
+
