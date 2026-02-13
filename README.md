@@ -26,6 +26,14 @@ Make sure you have the following installed on your machine:
    ```bash
    pip install -r requirements.txt
    ```
+2. **Add Environment Variables**
+
+   ```json
+   COSMOS_ENDPOINT= "<insert endpoint here>"
+   COSMOS_KEY= "<insert key here>"
+   COSMOS_DATABASE="mock-bank-db"
+
+   ```
 
 ---
 
